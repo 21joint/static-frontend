@@ -1,0 +1,69 @@
+{
+  "name": "21-frontend",
+  "version": "0.0.1",
+  "description": "Frontend Static Boilderplate: SCSS : Webpack ",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "start:dev": "webpack-dev-server --open --config webpack.dev.js",
+    "start": "webpack && http-server ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickzhao/static-html-webpack-boilerplate.git"
+  },
+  "author": "Levon Grigoryan",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.2.6",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "copy-webpack-plugin": "^4.5.1",
+    "css-loader": "^0.28.10",
+    "cssnano": "^3.10.0",
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "fs-extra": "^5.0.0",
+    "generate-changelog": "^1.7.0",
+    "glob": "^7.1.2",
+    "html-webpack-plugin": "^2.30.1",
+    "http-server": "^0.10.0",
+    "node-sass": "^4.5.3",
+    "optimize-css-assets-webpack-plugin": "^3.2.0",
+    "path": "^0.12.7",
+    "postcss-loader": "^2.1.1",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.7",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^2.11.2",
+    "webpack-merge": "^4.1.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-touch-punch": "^0.2.3",
+    "owl.carousel": "^2.2.0",
+    "perfect-scrollbar": "^1.3.0",
+    "popper.js": "^1.13.0",
+    "select2": "^4.0.6-rc.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "keywords": [
+    "frontend",
+    "boilerplate",
+    "scss",
+    "webpack",
+    "2018",
+    "minify",
+    "livereload"
+  ]
+}

@@ -1,0 +1,72 @@
+header{
+  .dropdown-menu {
+    transition: 0.33s opacity;
+    &:not(.show) {
+      opacity: 0;
+    }
+    &:before {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 0;
+      height: 0;
+      border-left: 20px solid transparent;
+      border-right: 20px solid transparent;
+      border-bottom: 14px solid #BDC0C9;
+      margin-left: -20px;
+      margin-top: -14px;
+      z-index: -2;
+      top: 0;
+
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      display: block;
+      width: 0;
+      height: 0;
+      border-left: 20px solid transparent;
+      border-right: 20px solid transparent;
+      border-bottom: 14px solid #fff;
+      margin-left: -20px;
+      margin-top: -13px;
+      z-index: -1;
+      top: 0;
+    }
+    //&.dropdown-menu-right {
+    //  &:before {
+    //    right: 18px;
+    //  }
+    //  &:after {
+    //    right: 18px;
+    //  }
+    //}
+    //&.dropdown-menu-flags {
+    //  &:before {
+    //    right: 16px;
+    //  }
+    //  &:after {
+    //    right: 16px;
+    //  }
+    //}
+    //&.dropdown-menu-notifications {
+    //  &:before {
+    //    right: 107px;
+    //  }
+    //  &:after {
+    //    right: 107px;
+    //  }
+    //}
+  }
+}
+
+.flags-dropdown {
+  .dropdown-toggle:after {
+    @include my_caret();
+    margin-left: 15px;
+  }
+  .badge {
+    line-height: 18px;
+    height: 20px;
+  }
+}
