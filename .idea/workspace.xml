@@ -2,133 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac06d4a9-7c5e-4cbd-bfb2-71bb48d27a7f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/js/modules/module.js" />
-      <change beforePath="$PROJECT_DIR$/src/brand-campaign.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-congratulation.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-edit-profile.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-find-influencer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-influencer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-register-step1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-register-step2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-register-step3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-register-success.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-set-profile.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/brand-welcome.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/Bitmap.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/Bitmap11.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/Fill 1.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/Fill 3.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/agency/growsocial.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/arrow-down.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/arrow-left.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/arrow-right.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/arrow-up_1.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/brand-video.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/calendar.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/check-mark.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/checked.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/close-btn-light.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/close-btn.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/close.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/company-logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/close-btn.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/denmark.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/finland.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/france.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/germany.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/netherlands.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/norway.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/sweden.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/flags/uk.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hearth.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/help.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/i.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/infl-card-bg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/influencer-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/influencer-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/influencer-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/influencer-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/influencer-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/info.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/like-grey.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/like.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/liza.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo-small.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo-text.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo-white.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/management-img1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/management-img2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/management-img3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/Tumblr-inactive.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/Untitled.sketch" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/blog.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/facebook_darkblue.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/fb-inactive.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/fb.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/hearth.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/instagram-inactive.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/instagram.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/instagram_darkblue.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/instagram_t.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/pinterest-inactive.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/pinterest.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/pinterest_darkblue.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/podcast.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/snapchat.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/tumblr.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/tumblr_darkblue.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/twitter.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/networks/youtube.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/notification-i.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/office-img.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/post_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/post_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/profile.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/user.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/user.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/user1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/user2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/user3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/user4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/entry.js" afterPath="$PROJECT_DIR$/src/js/entry.js" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/flag-select.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/header.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/influencer.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/loader.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/terms.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/upload-file.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_buttons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_colors.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_fonts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_general.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_layout.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_network-icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_tabs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_type.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_ui-kit.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_ui-slider.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_vars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/_videos.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/brand/_brand-campaign.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/brand/_brand-influencer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/brand/_modals.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/bs-components/_dropdowns.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/bs-components/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/bs-components/_modal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/bs-components/_tooltips.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/components/_file-upload.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/components/_pagination.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/components/_select2.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/registration/_management.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/registration/_pick-role.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/registration/_progress.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/stylesheets/styles.scss" afterPath="$PROJECT_DIR$/src/stylesheets/styles.scss" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -172,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entry.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entry.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/entry.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -202,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="336">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -340,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/stylesheets/_vars.scss" />
         <option value="$PROJECT_DIR$/src/stylesheets/styles.scss" />
         <option value="$PROJECT_DIR$/src/js/entry.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -410,11 +286,6 @@
               <item name="webpack-boiler" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-boiler" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="webpack-boiler" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack-boiler" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -478,12 +349,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520709871249</updated>
-      <workItem from="1520709873054" duration="20812000" />
+      <workItem from="1520709873054" duration="21743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20812000" />
+    <option name="totallyTimeSpent" value="21743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1440" height="808" extended-state="6" />
@@ -495,7 +366,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36325386" sideWeight="0.7060086" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36325386" sideWeight="0.7060086" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2074392" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -876,14 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -951,7 +814,15 @@
     <entry file="file://$PROJECT_DIR$/src/js/entry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
