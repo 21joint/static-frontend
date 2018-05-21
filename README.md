@@ -1,5 +1,7 @@
 # Static HTML Webpack Boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/21joint/static-frontend.svg)](https://greenkeeper.io/)
+
 Enjoy hand-writing your HTML? Keep it old-school with modern build tools. 
 This boilerplate is a non-opinionated setup that makes it easier to write your own styling, scripts, and mark-up.
 
